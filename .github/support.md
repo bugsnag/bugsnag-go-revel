@@ -1,5 +1,5 @@
 ## Are you having trouble getting started?
-If you haven't already, please checkout our [documentation](https://docs.bugsnag.com/platforms/go/revel/) for guides, references and tutorials.
+If you haven't already, please checkout our [documentation](https://docs.bugsnag.com/platforms/go/revel) for guides, references and tutorials.
 
 Or, if you wish you can [contact us directly](mailto:support@bugsnag.com) for assistance on integrating Bugsnag into your application, troubleshooting an issue or a question about our supported features.
 
@@ -9,7 +9,8 @@ When contacting support, please include as much information as necessary, includ
 - steps to reproduce
 - expected/actual behaviour 
 
-* Bugsnag version:
+* Bugsnag Go version:
+* Bugsnag Go Revel version:
 * Go version:
 * Revel framework version:
 
